@@ -1,0 +1,2 @@
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\KNN\DataSet1.txt
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Data2.txt
